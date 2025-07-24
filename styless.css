@@ -121,7 +121,7 @@
   transform: scale(1);
   margin: 20px;
   object-fit: cover;
-  image-rendering: high-quality;
+  image-rendering: auto;
 }
 
 .home-image img:hover {
