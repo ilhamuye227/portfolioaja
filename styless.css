@@ -112,8 +112,8 @@
 }
 
 .home-image img {
-  width: 300px; /* Disesuaikan agar tidak terlalu besar di mobile */
-  height: 300px;
+  width: 350px; /* Disesuaikan agar tidak terlalu besar di mobile */
+  height: 350px;
   border-radius: 50%;
   box-shadow: 0 10px 20px rgba(255, 255, 255, 0.3);
   object-fit: cover;
